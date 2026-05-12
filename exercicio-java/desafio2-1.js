@@ -1,3 +1,5 @@
+// Limpa o console antes de  apresentar o comando
+console.clear();
 
 // Declaração de variáveis
 const meuNome = "Evaldo Junior";
@@ -17,3 +19,6 @@ console.log("Gosto de programar:", gostoDeProgramar);
 //Mudando a variável cidade, uma vez que ela foi nomeada com "let" e não "const"
 minhaCidade = "Serra Branca";
 console.log("Minha cidade atualizada é:", minhaCidade);
+console.log("-------------------------------");
+
+console.log("Olá! O código do VS Code está funcionando corretamente.");
